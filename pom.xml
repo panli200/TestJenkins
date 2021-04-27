@@ -3,19 +3,14 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.ENSE375-GroupC</groupId>
-    <artifactId>ENSE375-GroupC</artifactId>
+    <groupId>org.TestJenkins</groupId>
+    <artifactId>TestJenkins</artifactId>
     <packaging>jar</packaging>
     <version>0.1.0-SNAPSHOT</version>
 
-    <name>ENSE375-GroupC</name>
+    <name>TestJenkins</name>
     <description>Jenkins CI Pipeline</description>
 
-    <!-- <properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
-	</properties> -->
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
